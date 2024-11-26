@@ -905,6 +905,7 @@
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 - [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
+- [Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 
 ## Related
 
